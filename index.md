@@ -15,5 +15,3 @@ For an application to the computation of the gluino pole mass, look at [gluinopo
 This material is based upon work supported by the National Science Foundation under Grants PHY-0140129, PHY-0456635, PHY-0757325, PHY-1068369, PHY-1417028, and PHY-1719273. This work is also supported by awards from Research Corporation and the Ohio Supercomputer Center.
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
-
-HERE IS SOME SPACE

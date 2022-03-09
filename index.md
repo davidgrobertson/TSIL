@@ -8,6 +8,8 @@ The source code for the current version (v1.45, June 18, 2020) of the program ca
 
 <!-- In the Hopi culture indigenous to the American southwest, Tsil is the Chili Pepper Kachina, one of many supernatural spirits represented by masked doll-like figurines and impersonated by ceremonial dancers. Tsil is one of the runner Kachinas. When he overtakes you in a race, he may stuff your mouth with hot chili peppers.-->
 
+For applications to the Standard Model Higgs, Z, W, and top-quark masses, look at [SMDR](https://davidgrobertson.github.io/SMDR/). 
+
 For an application to the computation of the gluino pole mass, look at [gluinopole](https://www.niu.edu/spmartin/gluinopole/).
 
 This material is based upon work supported by the National Science Foundation under Grants PHY-0140129, PHY-0456635, PHY-0757325, PHY-1068369, PHY-1417028, and PHY-1719273. This work is also supported by awards from Research Corporation and the Ohio Supercomputer Center.

@@ -19,11 +19,15 @@
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
-           HERE IS SOME SPACE!
         {% endif %}
 
+        <p>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        <p>In the Hopi culture indigenous to the American southwest, Tsil is the Chili Pepper Kachina, one of many supernatural spirits represented by 
+          masked doll-like figurines and impersonated by ceremonial dancers. Tsil is one of the runner Kachinas. When he overtakes you in a race, he 
+          may stuff your mouth with hot chili peppers.
+          
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}

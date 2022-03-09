@@ -1,8 +1,8 @@
 June 18, 2020 Version 1.45
 ---------------------------
 
-* TSIL_Trilogseries() in trilog.c rewritten to make it more efficient. 
-  Thanks to Alexander Voigt for this.
+* TSIL_Trilogseries() in trilog.c rewritten for efficiency. Thanks to 
+  Alexander Voigt for this.
 
 March 23, 2019 Version 1.44
 ---------------------------

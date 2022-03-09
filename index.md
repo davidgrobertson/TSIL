@@ -6,7 +6,7 @@ The paper announcing and describing `TSIL` can be downloaded from the arXiv prep
 
 The source code for the current version (v1.45, June 18, 2020) of the program can be downloaded [here](https://github.com/davidgrobertson/TSIL/releases/tag/v1.45) as a zip or tar.gz archive. This unpacks into a single directory, which contains the C source files and a README.txt file with complete instructions for building and using TSIL.
 
-In the Hopi culture indigenous to the American southwest, Tsil is the Chili Pepper Kachina, one of many supernatural spirits represented by masked doll-like figurines and impersonated by ceremonial dancers. Tsil is one of the runner Kachinas. When he overtakes you in a race, he may stuff your mouth with hot chili peppers.
+<!-- In the Hopi culture indigenous to the American southwest, Tsil is the Chili Pepper Kachina, one of many supernatural spirits represented by masked doll-like figurines and impersonated by ceremonial dancers. Tsil is one of the runner Kachinas. When he overtakes you in a race, he may stuff your mouth with hot chili peppers.-->
 
 For an application to the computation of the gluino pole mass, look at gluinopole.
 

@@ -4,7 +4,7 @@
 
 The paper announcing and describing `TSIL` can be downloaded from the arXiv preprint archive as [hep-ph/0501132](https://arxiv.org/abs/hep-ph/0501132).
 
-The source code for the current version (v1.45, June 18, 2020) of the program can be downloaded [here](https://github.com/davidgrobertson/TSIL/releases/tag/v1.45) as a zip or tar.gz archive. This unpacks into a single directory, which contains the C source files and a README.txt file with complete instructions for building and using TSIL.
+The source code for the current version (v1.46, July 14, 2025) of the program can be downloaded [here](https://github.com/davidgrobertson/TSIL/releases/tag/v1.45) as a zip or tar.gz archive. This unpacks into a single directory, which contains the C source files and a README.txt file with complete instructions for building and using TSIL.
 
 <!-- In the Hopi culture indigenous to the American southwest, Tsil is the Chili Pepper Kachina, one of many supernatural spirits represented by masked doll-like figurines and impersonated by ceremonial dancers. Tsil is one of the runner Kachinas. When he overtakes you in a race, he may stuff your mouth with hot chili peppers.-->
 

@@ -5,9 +5,9 @@
  *   Implements sections III, IV, and V.A of hep-ph/0509115
  *
  *   To use this, you first need to install TSIL, see:
- *   http://www.niu.edu/spmartin/TSIL
+ *   https://github.com/davidgrobertson/TSIL
  *   or
- *   http://faculty.otterbein.edu/DRobertson/tsil
+ *   https://www.niu.edu/spmartin/TSIL
  *
  *   To compile this program: 
  *

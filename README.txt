@@ -1,6 +1,6 @@
-                     *******************************
-		          Welcome to TSIL v1.45
-                     *******************************
+                     ********************************
+		            Welcome to TSIL
+                     ********************************
 
 Copyright (C) 2005 S.P. Martin and D.G. Robertson
 
@@ -45,10 +45,10 @@ Northern Illinois University
 DeKalb, IL 60115
 USA
 
-D.G. Robertson [drobertson AT otterbein.edu]
-Department of Physics
-Otterbein University
-Westerville, OH 43081
+D.G. Robertson [drober23 AT nd.edu]
+Department of Physics and Astronomy
+University of Notre Dame
+Notre Dame, IN 46556
 USA
 
 To cite this program, please reference the paper (referred to in this
@@ -66,10 +66,10 @@ Phys. Rev. D 68, 075002 (2003) [hep-ph/0307101].
 
 TSIL is available from:
 
-       http://www.niu.edu/spmartin/TSIL
-       http://faculty.otterbein.edu/drobertson/TSIL
+    https://github.com/davidgrobertson/TSIL
+    https://www.niu.edu/spmartin/TSIL
 
-Version number: 1.43
+Version number: 1.46
 
 
 ************************************************************************

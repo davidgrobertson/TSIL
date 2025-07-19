@@ -1,4 +1,4 @@
-#define TSIL_VERSION "1.45"
+#define TSIL_VERSION "1.46"
 
 /* General header file for the user API and all TSIL types.  This file
    must be included in all applications of TSIL.  */

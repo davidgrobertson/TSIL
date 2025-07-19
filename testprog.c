@@ -122,13 +122,16 @@ TSIL_REAL TSIL_GetReal ()
 {
   TSIL_REAL val;
 
+  /* Don't do anything with this, but avoids a compiler warning. */
+  int fscanf_success;
+
   while (fgetc (fp) != '=')
     ;
 
 #if defined(TSIL_SIZE_DOUBLE)
-  fscanf (fp, "%lf;", &val);
+  fscanf_success = fscanf (fp, "%lf;", &val);
 #else
-  fscanf (fp, "%Lf;", &val);
+  fscanf_success = fscanf (fp, "%Lf;", &val);
 #endif
   return val;
 }
@@ -142,11 +145,14 @@ TSIL_COMPLEX TSIL_GetComplex ()
   char         s[50];
   const char   inf[] = "ComplexInfinity;";
 
+  /* Don't do anything with this, but avoids a compiler warning. */
+  int fscanf_success;
+
   while (fgetc (fp) != '=')
     ;
 
   /* This automatically skips leading white space: */
-  fscanf (fp, "%s", s);
+  fscanf_success = fscanf (fp, "%s", s);
 
   if (strcmp (s, inf) == 0)
     val = TSIL_Infinity;
@@ -154,9 +160,9 @@ TSIL_COMPLEX TSIL_GetComplex ()
     {
       val = (TSIL_COMPLEX) strtold (s, (char **) NULL);
 #if defined(TSIL_SIZE_DOUBLE)
-      fscanf (fp, " + %lf I;", &im);
+      fscanf_success = fscanf (fp, " + %lf I;", &im);
 #else
-      fscanf (fp, " + %Lf I;", &im);
+      fscanf_success = fscanf (fp, " + %Lf I;", &im);
 #endif
       val += I * im;
     }

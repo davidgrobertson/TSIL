@@ -24,16 +24,16 @@ Northern Illinois University
 DeKalb, IL 60115
 USA
 
-D.G. Robertson [drobertson AT otterbein.edu]
+D.G. Robertson [drober23 AT nd.edu]
 Department of Physics and Astronomy
-Otterbein College
-Westerville, OH 43081
+University of Notre Dame
+Notre Dame, IN 46556
 USA
 
 TSIL is available from
 
-       http://www.niu.edu/spmartin/TSIL
-       http://faculty.otterbein.edu/DRobertson/tsil
+    https://github.com/davidgrobertson/TSIL
+    https://www.niu.edu/spmartin/TSIL
 
 To cite this program, please reference the paper:
 

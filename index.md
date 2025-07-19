@@ -1,6 +1,6 @@
 ## [T]wo-Loop [S]elf-Energy [I]ntegral [L]ibrary
 
-`TSIL` is a library of utilities for the numerical calculation of dimensionally regularized two-loop self-energy integrals. It is written in C, and can be linked to C/C++ and Fortran applications. The authors are [Stephen P. Martin](https://www.niu.edu/spmartin/) and [David G. Robertson](http://faculty.otterbein.edu/drobertson). `TSIL` is free software, released under the GPL.
+`TSIL` is a library of utilities for the numerical calculation of dimensionally regularized two-loop self-energy integrals. It is written in C, and can be linked to C/C++ and Fortran applications. The authors are [Stephen P. Martin](https://www.niu.edu/spmartin/) and [David G. Robertson](https://physics.nd.edu/people/david-robertson/)). `TSIL` is free software, released under the GPL.
 
 The paper announcing and describing `TSIL` can be downloaded from the arXiv preprint archive as [hep-ph/0501132](https://arxiv.org/abs/hep-ph/0501132).
 
